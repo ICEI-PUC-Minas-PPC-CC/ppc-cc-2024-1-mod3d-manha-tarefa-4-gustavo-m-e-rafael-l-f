@@ -6,10 +6,8 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gustavo Silvestre Mingueti
+- Rafael Leite Firmino
 
 ## Professor
 
