@@ -17,8 +17,9 @@
 
 <ol>
   
-<li> Gustavo Mingueti- Começou o projeto pelo aplicativo Rokoko, criou o video dancando como base, fez o upload e baixou o personagem(cavaleiro) do maximo </li>
-<li> Rafael Leite- Implementou os movementos no personagem 3d através do blender, com o auxilio do plugin do próprio rokoko </li>
+<li> Gustavo Mingueti- Começou o projeto pelo aplicativo Rokoko, criou o video dancando como base, fez o upload e baixou o personagem(cavaleiro) do maximo.</li>
+
+<li> Rafael Leite- Implementou os movementos no personagem 3d através do blender, com o auxilio do plugin do próprio rokoko. </li>
   
 </ol>
 
