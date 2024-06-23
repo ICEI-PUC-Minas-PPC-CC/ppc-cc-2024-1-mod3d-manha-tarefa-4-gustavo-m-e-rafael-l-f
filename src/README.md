@@ -1,11 +1,3 @@
 # Instruções de utilização
-
-## Instalação do Site
-
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+para fazer download do arquivo.zip da apresentação proposta no blender
+[movimentos.zip](https://github.com/user-attachments/files/15942209/movimentos.zip)
